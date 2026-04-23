@@ -1,0 +1,55 @@
+{
+  "qq_number": "3367174240",
+  "group_number": "1082178906",
+  "updated_at": "2026-04-23T15:52:38.068006",
+  "skins": [
+    {
+      "name": "青栀の布丁过载",
+      "file": "青栀の布丁过载.bdi",
+      "thumb": "青栀の布丁过载.bdi_py_26_light_thumb.png",
+      "full": "青栀の布丁过载.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の電子の心臓",
+      "file": "青栀の電子の心臓.bdi",
+      "thumb": "青栀の電子の心臓.bdi_py_26_light_thumb.png",
+      "full": "青栀の電子の心臓.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の雾雪绒",
+      "file": "青栀の雾雪绒.bdi",
+      "thumb": "青栀の雾雪绒.bdi_py_26_light_thumb.png",
+      "full": "青栀の雾雪绒.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の霓虹心葬",
+      "file": "青栀の霓虹心葬.bdi",
+      "thumb": "青栀の霓虹心葬.bdi_py_26_light_thumb.png",
+      "full": "青栀の霓虹心葬.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の電子の心臓",
+      "file": "青栀の電子の心臓.bds",
+      "thumb": "青栀の電子の心臓.bds_py_26_light_thumb.png",
+      "full": "青栀の電子の心臓.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀の布丁",
+      "file": "青栀の布丁过载.bds",
+      "thumb": "青栀の布丁过载.bds_py_26_light_thumb.png",
+      "full": "青栀の布丁过载.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀の雾雪绒",
+      "file": "青栀の雾雪绒.bds",
+      "thumb": "青栀の雾雪绒.bds_py_26_light_thumb.png",
+      "full": "青栀の雾雪绒.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀の霓虹心葬",
+      "file": "青栀の霓虹心葬.bds",
+      "thumb": "青栀の霓虹心葬.bds_py_26_light_thumb.png",
+      "full": "青栀の霓虹心葬.bds_py_26_light.png"
+    }
+  ]
+}

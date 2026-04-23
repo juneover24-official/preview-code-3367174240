@@ -1,0 +1,67 @@
+{
+  "qq_number": "3367174240",
+  "group_number": "1051763368",
+  "updated_at": "2026-04-23T15:52:36.245129",
+  "skins": [
+    {
+      "name": "青栀の萌系小恶魔",
+      "file": "青栀の萌系小恶魔.bdi",
+      "thumb": "青栀の萌系小恶魔.bdi_py_26_light_thumb.png",
+      "full": "青栀の萌系小恶魔.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀のMerry Christmas",
+      "file": "青栀のMerryChristmas.bdi",
+      "thumb": "青栀のMerryChristmas.bdi_py_26_light_thumb.png",
+      "full": "青栀のMerryChristmas.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀のkarneval狂欢节",
+      "file": "青栀のkarneval狂欢节.bdi",
+      "thumb": "青栀のkarneval狂欢节.bdi_py_26_light_thumb.png",
+      "full": "青栀のkarneval狂欢节.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の†圣骸†",
+      "file": "青栀の圣骸.bdi",
+      "thumb": "青栀の圣骸.bdi_py_26_light_thumb.png",
+      "full": "青栀の圣骸.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の眠眠兔",
+      "file": "青栀の眠眠兔.bdi",
+      "thumb": "青栀の眠眠兔.bdi_py_26_light_thumb.png",
+      "full": "青栀の眠眠兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "青栀の†圣骸†",
+      "file": "青栀の圣骸.bds",
+      "thumb": "青栀の圣骸.bds_py_26_light_thumb.png",
+      "full": "青栀の圣骸.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀の眠眠兔",
+      "file": "青栀の眠眠兔.bds",
+      "thumb": "青栀の眠眠兔.bds_py_26_light_thumb.png",
+      "full": "青栀の眠眠兔.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀の萌系小恶魔",
+      "file": "青栀の萌系小恶魔.bds",
+      "thumb": "青栀の萌系小恶魔.bds_py_26_light_thumb.png",
+      "full": "青栀の萌系小恶魔.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀のMerry Christmas",
+      "file": "青栀のMerryChristmas.bds",
+      "thumb": "青栀のMerryChristmas.bds_py_26_light_thumb.png",
+      "full": "青栀のMerryChristmas.bds_py_26_light.png"
+    },
+    {
+      "name": "青栀のkarneval狂欢节",
+      "file": "青栀のkarneval狂欢节.bds",
+      "thumb": "青栀のkarneval狂欢节.bds_py_26_light_thumb.png",
+      "full": "青栀のkarneval狂欢节.bds_py_26_light.png"
+    }
+  ]
+}
