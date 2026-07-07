@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1080717645",
-  "updated_at": "2026-07-07T06:15:53+00:00",
+  "updated_at": "2026-07-07T06:16:17+00:00",
   "skins": [
     {
       "name": "青栀の焦糖华夫杯音效二",
@@ -146,6 +146,12 @@
       "file": "青栀の红豆山雀一.bdi",
       "thumb": "青栀の红豆山雀一.bdi_py_26_light_thumb.png",
       "full": "青栀の红豆山雀一.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "青栀の红豆山雀音效二",
+      "file": "青栀の红豆山雀二.bdi",
+      "thumb": "青栀の红豆山雀二.bdi_py_26_light_thumb.png",
+      "full": "青栀の红豆山雀二.bdi_py_26_light_thumb.png"
     }
   ]
 }
