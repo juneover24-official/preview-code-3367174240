@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1041394723",
-  "updated_at": "2026-07-20T10:03:46+00:00",
+  "updated_at": "2026-07-20T10:04:18+00:00",
   "skins": [
     {
       "name": "青栀の抹茶蛋糕音效一大",
@@ -32,6 +32,12 @@
       "file": "青栀の抹茶蛋糕一小.bds",
       "thumb": "青栀の抹茶蛋糕一小.bds_py_26_light_thumb.png",
       "full": "青栀の抹茶蛋糕一小.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "青栀の抹茶蛋糕音效一大",
+      "file": "青栀の抹茶蛋糕一大.bds",
+      "thumb": "青栀の抹茶蛋糕一大.bds_py_26_light_thumb.png",
+      "full": "青栀の抹茶蛋糕一大.bds_py_26_light_thumb.png"
     }
   ]
 }
