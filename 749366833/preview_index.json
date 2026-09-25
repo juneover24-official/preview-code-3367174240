@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "749366833",
-  "updated_at": "2026-09-25T05:23:44+00:00",
+  "updated_at": "2026-09-25T05:24:27+00:00",
   "skins": [
     {
       "name": "青栀の薄荷巧克力音效二小1",
@@ -224,6 +224,13 @@
       "thumb": "青栀の杨梅一大.bds_py_26_light_thumb.png",
       "full": "青栀の杨梅一大.bds_py_26_light_thumb.png",
       "file_id": "7fbfb886439338360c197b1e5fba42d6"
+    },
+    {
+      "name": "青栀の杨梅音效二大",
+      "file": "青栀の杨梅二大.bds",
+      "thumb": "青栀の杨梅二大.bds_py_26_light_thumb.png",
+      "full": "青栀の杨梅二大.bds_py_26_light_thumb.png",
+      "file_id": "43a235aac05db6ca7b085b7602547e67"
     }
   ]
 }
