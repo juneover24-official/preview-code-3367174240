@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1125611403",
-  "updated_at": "2026-10-05T08:34:32+00:00",
+  "updated_at": "2026-10-05T08:35:11+00:00",
   "skins": [
     {
       "name": "青栀の奶油泡芙音效一大",
@@ -16,6 +16,13 @@
       "thumb": "青栀の猫猫面包店一大.bds_py_26_light_thumb.png",
       "full": "青栀の猫猫面包店一大.bds_py_26_light_thumb.png",
       "file_id": "148d7137bb014b5b17b813067e0b6136"
+    },
+    {
+      "name": "青栀の猫猫面包店音效二大",
+      "file": "青栀の猫猫面包店二大.bds",
+      "thumb": "青栀の猫猫面包店二大.bds_py_26_light_thumb.png",
+      "full": "青栀の猫猫面包店二大.bds_py_26_light_thumb.png",
+      "file_id": "c2d7d3c9ef64df043639cb3c7b1b2e02"
     }
   ]
 }
