@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1125611403",
-  "updated_at": "2026-11-21T09:17:21+00:00",
+  "updated_at": "2026-11-21T09:22:32+00:00",
   "skins": [
     {
       "name": "青栀の奶油泡芙音效一大",
@@ -158,13 +158,6 @@
       "file_id": "c8856e171b28ba33ca19ed9e2b118283"
     },
     {
-      "name": "青栀の香蕉奶昔音效二小",
-      "file": "青栀の香蕉奶昔二小.bds",
-      "thumb": "青栀の香蕉奶昔二小.bds_py_26_light_thumb.png",
-      "full": "青栀の香蕉奶昔二小.bds_py_26_light_thumb.png",
-      "file_id": "2234d4f87cbcc6921debe00a612a79aa"
-    },
-    {
       "name": "青栀の香蕉奶昔音效二大",
       "file": "青栀の香蕉奶昔二大.bdi",
       "thumb": "青栀の香蕉奶昔二大.bdi_py_26_light_thumb.png",
@@ -184,6 +177,13 @@
       "thumb": "青栀の香蕉奶昔一大.bdi_py_26_light_thumb.png",
       "full": "青栀の香蕉奶昔一大.bdi_py_26_light_thumb.png",
       "file_id": "f21875ab2b873dfcf30b97de38cf784b"
+    },
+    {
+      "name": "青栀の香蕉奶昔音效二小",
+      "file": "青栀の香蕉奶昔二小.bds",
+      "thumb": "青栀の香蕉奶昔二小.bds_py_26_light_thumb.png",
+      "full": "青栀の香蕉奶昔二小.bds_py_26_light_thumb.png",
+      "file_id": "2234d4f87cbcc6921debe00a612a79aa"
     }
   ]
 }
