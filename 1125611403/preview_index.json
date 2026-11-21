@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1125611403",
-  "updated_at": "2026-11-21T09:14:44+00:00",
+  "updated_at": "2026-11-21T09:15:08+00:00",
   "skins": [
     {
       "name": "青栀の奶油泡芙音效一大",
@@ -149,6 +149,13 @@
       "thumb": "青栀の香蕉奶昔一小.bds_py_26_light_thumb.png",
       "full": "青栀の香蕉奶昔一小.bds_py_26_light_thumb.png",
       "file_id": "39a6820ba4a8279334444aef201dce09"
+    },
+    {
+      "name": "青栀の香蕉奶昔音效一大",
+      "file": "青栀の香蕉奶昔一大.bds",
+      "thumb": "青栀の香蕉奶昔一大.bds_py_26_light_thumb.png",
+      "full": "青栀の香蕉奶昔一大.bds_py_26_light_thumb.png",
+      "file_id": "db0842cc3c4cb3b7759e72f3faed0ce2"
     }
   ]
 }
