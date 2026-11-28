@@ -1,7 +1,7 @@
 {
   "qq_number": "3367174240",
   "group_number": "1125611403",
-  "updated_at": "2026-11-28T09:45:33+00:00",
+  "updated_at": "2026-11-28T09:49:03+00:00",
   "skins": [
     {
       "name": "青栀の奶油泡芙音效一大",
@@ -186,13 +186,6 @@
       "file_id": "db0842cc3c4cb3b7759e72f3faed0ce2"
     },
     {
-      "name": "青栀の曲奇饼干音效一大",
-      "file": "青栀の曲奇饼干一大.bds",
-      "thumb": "青栀の曲奇饼干一大.bds_py_26_light_thumb.png",
-      "full": "青栀の曲奇饼干一大.bds_py_26_light_thumb.png",
-      "file_id": "3f2889ea9e10ca4f61e0053878278411"
-    },
-    {
       "name": "青栀の曲奇饼干音效二小",
       "file": "青栀の曲奇饼干二小.bds",
       "thumb": "青栀の曲奇饼干二小.bds_py_26_light_thumb.png",
@@ -205,6 +198,13 @@
       "thumb": "青栀の曲奇饼干二大.bds_py_26_light_thumb.png",
       "full": "青栀の曲奇饼干二大.bds_py_26_light_thumb.png",
       "file_id": "fb79865b7c7c2b376cef46a6663352d6"
+    },
+    {
+      "name": "青栀の曲奇饼干音效一大",
+      "file": "青栀の曲奇饼干一大.bds",
+      "thumb": "青栀の曲奇饼干一大.bds_py_26_light_thumb.png",
+      "full": "青栀の曲奇饼干一大.bds_py_26_light_thumb.png",
+      "file_id": "3f2889ea9e10ca4f61e0053878278411"
     }
   ]
 }
